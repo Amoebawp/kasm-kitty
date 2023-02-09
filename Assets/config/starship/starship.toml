@@ -1,0 +1,76 @@
+#
+#	STARSHIP CONFIGURATION
+#
+
+#Pour avoir des complétions dans votre éditeur basées sur le schéma de la config
+"$schema" = 'https://starship.rs/config-schema.json'
+
+format = """
+[┌──────────────────────](bold #f8f8f2) $cmd_duration at(bold #f8f8f2) $custom
+[│](bold #f8f8f2) dir(bold #6272a4) $directory $git_branch $python $php $nodejs
+[└─](bold #f8f8f2)❯(bold #50fa7b) 
+"""
+
+[directory]
+truncate_to_repo = false
+truncation_length = 12
+style = "italic cyan"
+
+[status]
+disabled = false
+#style = "bold #FF92DF"
+style = "#ff92df"
+symbol = " ✖ "
+success_symbol = " ✔️ "
+not_executable_symbol = " 🚫 "
+not_found_symbol = " 🔍"
+sigint_symbol = " ⚡"
+signal_symbol = " ⚡"
+map_symbol = true
+pipestatus = true
+
+[battery]
+full_symbol = "🔋"
+charging_symbol = "⚡️"
+discharging_symbol = "💀"
+
+[[battery.display]]  # "bold red" style when capacity is between 0% and 10%
+threshold = 10
+style = "bold red"
+
+[[battery.display]]  # "bold yellow" style when capacity is between 10% and 30%
+threshold = 25
+style = "bold red"
+
+[cmd_duration]
+min_time = 2
+show_milliseconds = false
+disabled = false
+#prefix = ""
+style = "bold italic blue"
+
+[sudo]
+style = "bold green"
+symbol = "root "
+disabled = false
+
+[git_branch]
+style="bold italic dimmed bright-yellow"
+
+[python]
+symbol = "Python: "
+style = "bold italic dimmed blue"
+
+[php]
+symbol = "PHP: "
+style = "bold italic dimmed blue"
+
+[nodejs]
+symbol = "Node: "
+style = "bold italic dimmed cyan"
+
+[custom.separator]
+disabled = false
+command = 'date +"%H:%M "'
+when = "true"
+style = "bold fg:blue"

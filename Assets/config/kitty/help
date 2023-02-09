@@ -1,0 +1,9 @@
+
+┌─ ● Kitty ───────────────────────────────────────
+└──┬─  New window     ➔  ctrl + enter      
+   ├─  Move focus     ➔  ctrl + arrows
+   ├─  Close window   ➔  ctrl + shift + X
+   ├─  Cycle layouts  ➔  ctrl + shift + L
+   ├─  Resize window  ➔  ctrl + shift + R
+   ├─  Move window    ➔  ctrl + shift + Arrows    
+   └─  Font Size      ➔  ctrl + shift + num.+/-

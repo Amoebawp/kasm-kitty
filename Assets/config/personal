@@ -1,0 +1,6 @@
+
+alias ll='ls -lahc --group-directories-first --color=auto'
+alias dir='dir --color=auto'
+alias ..='cd ..'
+
+echo ''
