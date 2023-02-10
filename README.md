@@ -1,6 +1,8 @@
 # Kasm-kitty
 
-(Slightly riced) Kitty terminal image with neofetch & dracula color theme. Tweaked to work on Kasm Workspaces.
+(Slightly riced) Kitty terminal image with neofetch & dracula color theme. 
+
+Tweaked to work on Kasm Workspaces > https://www.kasmweb.com/
 
 ![img1](https://github.com/Amoebawp/kasm-kitty/blob/main/screenshots/kasm-kitty_01.png)
 
