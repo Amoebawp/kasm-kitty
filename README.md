@@ -1,4 +1,4 @@
-# kasm-kitty
+# Kasm-kitty
 
 (Slightly riced) Kitty image to work for Kasm Workspaces.
 
@@ -55,9 +55,9 @@ You can switch layout to get to the Splits layout.
 
 In this mod, you can control where the new window will be opened.
 
-To split the selected window vertically press `ctrl + v`
+  - To split the selected window vertically press `ctrl + v`
 
-To split the selected window horizontally press `ctrl + h`
+  - To split the selected window horizontally press `ctrl + h`
 
  
 # Custom aliases -bash
