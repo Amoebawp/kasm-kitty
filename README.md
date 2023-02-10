@@ -2,7 +2,7 @@
 
 (Slightly riced) Kitty image to work for Kasm Workspaces.
 
-https://github.com/Amoebawp/kasm-kitty/blob/8d0c52ac546e5cc768e05e6f520476adae9213bc/screenshots/kasm-kitty_02.png?raw=true
+https://github.com/Amoebawp/kasm-kitty/blob/main/screenshots/kasm-kitty_02.png
 
 
 # Installation
