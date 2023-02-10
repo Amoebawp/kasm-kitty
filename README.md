@@ -61,10 +61,11 @@ alias rel='source ~/.bashrc'
 alias kconf='vim ~/.config/kitty/kitty.conf'
 alias matrix='cmatrix'
 alias clock='tty-clock -c -f ""'
-```
+
 #list
 alias ls='ls --color=auto'
 alias la='ls -a'
 alias ll='ls -alFh'
 alias l='ls'
 alias l.="ls -A | egrep '^\.'"
+```
