@@ -49,11 +49,14 @@ Change the other settings to suit your needs.
 
 # Layouts
 
-Default layout is set Tall - master & stack.
+Default window layout is **Tall** - master & stack.
 
-You can switch layout to get to the Splits layout.
+You can switch the layout to **Fat**, which will work the same way.
 
-In this mod, you can control where the new window will be opened.
+
+The third available layout is **Splits**.
+
+In this mod, you can dictate where a new window will be opened.
 
   - To split the selected window vertically press `ctrl + v`
 
