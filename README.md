@@ -1,8 +1,8 @@
 # Kasm-kitty
 
-(Slightly riced) Kitty image to work for Kasm Workspaces.
+(Slightly riced) Kitty terminal image with neofetch & dracula color theme. Tweaked to work on Kasm Workspaces.
 
-https://github.com/Amoebawp/kasm-kitty/blob/main/screenshots/kasm-kitty_02.png
+![img1](https://github.com/Amoebawp/kasm-kitty/blob/main/screenshots/kasm-kitty_01.png)
 
 
 # Installation
@@ -63,6 +63,8 @@ In this mod, you can dictate where a new window will be opened.
   - To split the selected window vertically press `ctrl + v`
 
   - To split the selected window horizontally press `ctrl + h`
+
+![img2](https://github.com/Amoebawp/kasm-kitty/blob/main/screenshots/kasm-kitty_02.png)
 
  
 # Custom aliases -bash
