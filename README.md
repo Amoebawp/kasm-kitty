@@ -1,6 +1,6 @@
 # Kasm-kitty
 
-Single-app Kitty image with neofetch & dracula color theme for Kasm Workspaces, based on `core-ubuntu-jammy`
+Single-app Kitty image with Dracula color theme for Kasm Workspaces, based on `core-ubuntu-jammy`
 
 > https://www.kasmweb.com/
 
