@@ -14,23 +14,23 @@ Clone an existing workspace and change the configuration for the following :
 
 - Friendly Name : 
 
-  `Kitty`
+>  `Kitty`
   
 - Description :
 
-  `Kitty is a fast, featureful, GPU based terminal emulator.`
+>  `Kitty is a fast, featureful, GPU based terminal emulator.`
   
 - Thumbnail URL :
 
-  `https://sw.kovidgoyal.net/kitty/_static/kitty.svg`
+>  `https://sw.kovidgoyal.net/kitty/_static/kitty.svg`
   
 - Docker Image :
 
-  `savati/kasm-kitty:latest`
+>  `savati/kasm-kitty:latest`
   
 - Docker Registry :
 
-  `https://index.docker.io/v1/`
+>  `https://index.docker.io/v1/`
  
  
  
