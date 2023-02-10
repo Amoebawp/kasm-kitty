@@ -7,6 +7,7 @@ Single-app Kitty image with neofetch & dracula color theme for Kasm Workspaces, 
 ![img1](https://github.com/Amoebawp/kasm-kitty/blob/main/screenshots/kasm-kitty_01.png)
 
 
+
 # Installation
 
 
@@ -51,6 +52,8 @@ Change the other settings to suit your needs.
    └─  Font Size      ➔  ctrl + shift + num.+/-
  ```
 
+
+
 # Layouts
 
 Default window layout is **Tall** - master & stack.
@@ -68,7 +71,8 @@ In this mod, you can dictate where a new window will be opened.
 
 ![img2](https://github.com/Amoebawp/kasm-kitty/blob/main/screenshots/kasm-kitty_02.png)
 
- 
+
+
 # Custom aliases -bash
 
 ```
