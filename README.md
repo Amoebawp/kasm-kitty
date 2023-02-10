@@ -24,7 +24,7 @@ Clone an existing workspace and change the configuration for the following :
 
   `savati/kasm-kitty:latest`
   
- - Docker Registry :
+- Docker Registry :
 
   `https://index.docker.io/v1/`
  
@@ -46,7 +46,19 @@ Change the other settings to suit your needs.
    ├─  Move window    ➔  ctrl + shift + Arrows    
    └─  Font Size      ➔  ctrl + shift + num.+/-
  ```
- 
+
+# Layouts
+
+Default layout is set Tall - master & stack.
+
+You can switch layout to get to the Splits layout.
+
+In this mod, you can control where the new window will be opened.
+
+To split the selected window vertically press `ctrl + v`
+
+To split the selected window horizontally press `ctrl + h`
+
  
 # Custom aliases -bash
 
