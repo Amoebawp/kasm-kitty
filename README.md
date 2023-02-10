@@ -2,6 +2,8 @@
 
 (Slightly riced) Kitty image to work for Kasm Workspaces.
 
+screenshots/kasm-kitty_02.png
+
 
 # Installation
 
