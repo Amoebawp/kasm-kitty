@@ -1,6 +1,6 @@
 # Kasm-kitty
 
-(Slightly riced) Kitty terminal image with neofetch & dracula color theme. 
+(Slightly riced) Kitty terminal image with neofetch & dracula color theme, based on `core-ubuntu-jammy`
 
 Tweaked to work on Kasm Workspaces > https://www.kasmweb.com/
 
