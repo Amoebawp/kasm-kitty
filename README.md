@@ -8,25 +8,32 @@
 Clone an existing workspace and change the configuration for the following :
 
 - Friendly Name : 
+
   Kitty
   
 - Description :
+
   Kitty is a fast, featureful, GPU based terminal emulator.
   
 - Thumbnail URL :
+
   https://sw.kovidgoyal.net/kitty/_static/kitty.svg
   
 - Docker Image :
+
   savati/kasm-kitty:latest
   
  - Docker Registry :
+
   https://index.docker.io/v1/
+ 
  
 Change the other settings to suit your needs.
 
 
 # Kitty Help
 
+```
 ┌─ ● Kitty ───────────────────────────────────────
 └──┬─  New window     ➔  ctrl + enter      
    ├─  Move focus     ➔  ctrl + arrows
@@ -35,7 +42,7 @@ Change the other settings to suit your needs.
    ├─  Resize window  ➔  ctrl + shift + R
    ├─  Move window    ➔  ctrl + shift + Arrows    
    └─  Font Size      ➔  ctrl + shift + num.+/-
- 
+ ```
  
 # Custom aliases -bash
 
